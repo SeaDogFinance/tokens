@@ -1,0 +1,11 @@
+{
+ "name": "SeaDogFinance",
+ "網站": "https://seadog.finance/",
+ "description": "SeaDog Finance 是第一個基於 TRON 的 MEME Token，由一群熱愛地球和加密貨幣的用戶創建的去中心化代幣。SeaDog Token 將 100% 放入 JustSwap 並銷毀私鑰以實現完全去中心化，SeaDog 是通貨緊縮的代幣，每次交易會燒掉 5% 的代幣，2% 的代幣會被扔進黑洞永久銷毀，以增加其價值。2% 將交給代幣持有者以獲得獎勵，1%將分配給SeaDog基金會，用於贊助全球海洋保護研究所。每一個Sea Dog持有者都將使用SeaDog進行交易，讓整個加密貨幣生態更貼近我們的世界。",
+ "explorer": "https://tronscan.org/#/token20/TXRGogRxEXVnVrQNtcayTL6zXw8fC37hbQ",
+ "類型": "TRC20",
+ "符號": "SEAD",
+ “小數”：6,
+ “狀態”：“活動”,
+ "id": "TXRGogRxEXVnVrQNtcayTL6zXw8fC37hbQ"
+}
